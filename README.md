@@ -28,7 +28,7 @@
     <link rel="stylesheet" href="https://template-1253409072.cos.ap-guangzhou.myqcloud.com/vip-tpl/assets/css/plugins.css"/>
     <link rel="stylesheet" href="https://template-1253409072.cos.ap-guangzhou.myqcloud.com/vip-tpl/assets/css/style.css"/>
     <section class="wrapper bg-gradient-primary">
-      <!-- /.container -->
+      <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
     </section>
     <section class="wrapper bg-gradient-primary">
     </section>

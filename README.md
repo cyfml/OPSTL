@@ -24,9 +24,9 @@
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
 <p align="center">:fire: We will release code in the future. :fire:</p>
 
-<div style="text-align: center;">Occluded Skeletonm Sequences     
+<div style="text-align: center;">Occluded Skeleton Sequences     
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Imputed Skeletonm Sequences
+  Imputed Skeleton Sequences
 </div>
 <div style="text-align: center;">
   <img src="assets/animation_occluded_sample1.gif" width="300" height="300" />

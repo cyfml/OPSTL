@@ -43,7 +43,7 @@
 <!-- <div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
 </div><div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" /></div> -->
 
-### Update
+## Update
 
 - 2023.09.14 Init repository.
 
@@ -53,12 +53,12 @@
 
 - [ ] Code release. 
 
-### Abstract
+## Abstract
 
 Abstract— In order to integrate action recognition methods into autonomous robotic systems, it is crucial to consider adverse situations involving target occlusions. Such a scenario, despite its practical relevance, is rarely addressed in existing self-supervised skeleton-based action recognition methods. To empower robots with the capacity to address occlusion, we propose a simple and effective method. We first pre-train using occluded skeleton sequences, then use k-means clustering (KMeans) on sequence embeddings to group semantically similar samples. Next, we employ K-nearest-neighbor (KNN) to fill in missing
 skeleton data based on the closest sample neighbors. Imputing incomplete skeleton sequences to create relatively complete sequences as input provides significant benefits to existing skeleton-based self-supervised models. Meanwhile, building on the state-of-the-art Partial Spatio-Temporal Learning (PSTL), we introduce an Occluded Partial Spatio-Temporal Learning (OPSTL) framework. This enhancement utilizes an Adaptive Spatial Masking (ASM) for a better use of high-quality, intact skeletons. The effectiveness of our imputation methods is verified on the challenging occluded versions of the NTURGB+D 60 and NTURGB+D 120.
 
-### Method
+## Method
 
 <p align="center">
     (Overview)
@@ -71,6 +71,6 @@ skeleton data based on the closest sample neighbors. Imputing incomplete skeleto
 * The framework of our code is based on [PSTL](https://github.com/YujieOuO/PSTL).
 * The encoder is based on [ST-GCN](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md).
 
-### Contact
+## Contact
 
 Feel free to contact me if you have additional questions or have interests in skeleton-based self-supervised action recognition. Please send me an email at cyf236510120@gmail.com

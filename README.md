@@ -69,4 +69,4 @@ skeleton data based on the closest sample neighbors. Imputing incomplete skeleto
 
 ### Contact
 
-Feel free to contact me if you have additional questions or have interests in semantic segmentation based on light field camera. Please drop me an email at cyf236510120@gmail.com
+Feel free to contact me if you have additional questions or have interests in skeleton-based self-supervised action recognition. Please send me an email at cyf236510120@gmail.com

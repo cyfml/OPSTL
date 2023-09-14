@@ -27,18 +27,10 @@
 </div>
  <div id="default-editor-page__placeholder">
     <section>
-      <div align=center><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
+      <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
     </section>
     <section>
-      <div align=center><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
-    </section>
-  </div>
-       <div id="default-editor-page__placeholder1">
-    <section>
-      <div align=center><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
-    </section>
-    <section>
-      <div align=center><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
+      <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
     </section>
   </div>
 </div>

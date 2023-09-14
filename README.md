@@ -25,7 +25,7 @@
 <p align="center">:fire: We will release code in the future. :fire:</p>
 <p float="center">
   <img src="assets/animation_occluded_sample1.gif" width="300" height="300" />
-  <div>-----------------imputed-----------------></div>
+  <p>-----------------imputed-----------------></p>
   <img src="assets/animation_imputed_sample1.gif" width="300" height="300" />
 </p>
 

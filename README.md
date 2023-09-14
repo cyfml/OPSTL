@@ -12,7 +12,6 @@
   <a href="https://www.researchgate.net/profile/Ruiping-Liu-7" target="_blank">Ruiping&nbsp;Liu</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Yufan-Chen-27" target="_blank">Yufan&nbsp;Chen</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Kailun-Yang" target="_blank">Kailun&nbsp;Yang</a> <b>&middot;</b>
-  <a href="https://www.researchgate.net/profile/Yaonan-Wang" target="_blank">Yaonan&nbsp;Wang</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Rainer-Stiefelhagen" target="_blank">Rainer&nbsp;Stiefelhagen</a>
  <br>
 

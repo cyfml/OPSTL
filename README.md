@@ -23,11 +23,15 @@
 
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
 <p align="center">:fire: We will release code in the future. :fire:</p>
-<p float="center">
+<div style="text-align: center;">
   <img src="assets/animation_occluded_sample1.gif" width="300" height="300" />
-  <p>-----------------imputed-----------------></p>
+  <div style="display: flex; align-items: center;">
+    <span style="flex-grow: 1;"></span> <!-- 占位符 -->
+    <span style="padding: 0 10px;">-----------------imputed-----------------></span>
+    <span style="flex-grow: 1;"></span> <!-- 占位符 -->
+  </div>
   <img src="assets/animation_imputed_sample1.gif" width="300" height="300" />
-</p>
+</div>
 
 <!-- <div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
 </div><div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" /></div> -->

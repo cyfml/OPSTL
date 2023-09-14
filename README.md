@@ -67,6 +67,10 @@ skeleton data based on the closest sample neighbors. Imputing incomplete skeleto
     <div align=center><img src="assets/pple.png" width="950" height="360" /></div>
 <br><br>
 
+## Acknowledgement
+* The framework of our code is based on [PSTL](https://github.com/YujieOuO/PSTL).
+* The encoder is based on [ST-GCN](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md).
+
 ### Contact
 
 Feel free to contact me if you have additional questions or have interests in skeleton-based self-supervised action recognition. Please send me an email at cyf236510120@gmail.com

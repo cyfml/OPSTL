@@ -26,7 +26,7 @@
 
 </div>
 
-<div align=left><img src="assets/animation_occluded_sample_1.gif" width="400" height="400" /></div>
+<div align=left><img src="assets/animation_occluded_sample1.gif" width="400" height="400" /></div>
 
 ### Update
 

@@ -23,7 +23,6 @@
 
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
 <p align="center">:fire: We will release code in the future. :fire:</p>
-</div>
 
 <div style="text-align: center;">Occluded     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +39,7 @@
                                              
   <img src="assets/animation_imputed_sample2.gif" width="300" height="300" />
 </div>
-
+</div>
 <!-- <div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
 </div><div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" /></div> -->
 

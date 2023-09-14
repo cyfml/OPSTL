@@ -28,6 +28,11 @@
                                              
   <img src="assets/animation_imputed_sample1.gif" width="300" height="300" />
 </div>
+<div style="text-align: center;">
+  <img src="assets/animation_occluded_sample2.gif" width="300" height="300" />
+                                             
+  <img src="assets/animation_imputed_sample2.gif" width="300" height="300" />
+</div>
 
 <!-- <div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
 </div><div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" /></div> -->

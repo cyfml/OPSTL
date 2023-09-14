@@ -25,8 +25,17 @@
 <p align="center">:fire: We will release code in the future. :fire:</p>
 
 </div>
-
-<div align=left><img src="assets/animation_occluded_sample1.gif" width="400" height="400" /></div>
+ <div id="default-editor-page__placeholder">
+    <section>
+      <div align=center><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
+    </section>
+    <section>
+      <div align=center><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
+    </section>
+  </div>
+</div>
+<!-- <div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
+</div><div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" /></div> -->
 
 ### Update
 

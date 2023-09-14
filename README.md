@@ -25,11 +25,7 @@
 <p align="center">:fire: We will release code in the future. :fire:</p>
 <div style="text-align: center;">
   <img src="assets/animation_occluded_sample1.gif" width="300" height="300" />
-  <div style="display: flex; align-items: center;">
-    <span style="flex-grow: 1;"></span> <!-- 占位符 -->
-    <span style="padding: 0 10px;">-----------------imputed-----------------></span>
-    <span style="flex-grow: 1;"></span> <!-- 占位符 -->
-  </div>
+                                             
   <img src="assets/animation_imputed_sample1.gif" width="300" height="300" />
 </div>
 

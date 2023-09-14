@@ -24,8 +24,9 @@
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
 <p align="center">:fire: We will release code in the future. :fire:</p>
 <p float="center">
-  <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
-  <img src="assets/animation_imputed_sample1.gif" width="200" height="200" />
+  <img src="assets/animation_occluded_sample1.gif" width="300" height="300" />
+  -----------------imputed----------------->
+  <img src="assets/animation_imputed_sample1.gif" width="300" height="300" />
 </p>
 
 <!-- <div align=left><img src="assets/animation_occluded_sample1.gif" width="200" height="200" />

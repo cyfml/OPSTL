@@ -31,11 +31,13 @@
       <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
     </section>
     <section class="wrapper bg-gradient-primary">
+      <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
     </section>
   </div>
-  <img src="https://static.htmlpage.cn/editor/images/assets/bg4.jpg" class="c3070"/>
+  <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
   <div class="htmlpage-row">
     <div class="htmlpage-cell">
+      <img src="assets/animation_occluded_sample1.gif" width="200" height="200" />
     </div>
     <div class="htmlpage-cell">
     </div>

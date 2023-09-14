@@ -24,10 +24,10 @@
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
 <p align="center">:fire: We will release code in the future. :fire:</p>
 
-<div style="text-align: center;">Occluded     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="text-align: center;">Occluded Skeletonm Sequences      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Imputed
+  Imputed Skeletonm Sequences
 </div>
 <div style="text-align: center;">
   <img src="assets/animation_occluded_sample1.gif" width="300" height="300" />

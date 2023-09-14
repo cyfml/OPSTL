@@ -64,7 +64,7 @@ skeleton data based on the closest sample neighbors. Imputing incomplete skeleto
     (Overview)
 </p>
 <p align="center">
-    <div align=center><img src="assets/Figtwo.jpg" width="850" height="330" /></div>
+    <div align=center><img src="assets/ppl.png" width="850" height="330" /></div>
 <br><br>
 
 ### Contact

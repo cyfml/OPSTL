@@ -6,7 +6,7 @@
   Yifei&nbsp;Chen</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Kunyu-Peng" target="_blank">Kunyu&nbsp;Peng</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Alina-Roitberg-2" target="_blank">Alina&nbsp;Roitberg</a> <b>&middot;</b>
-  David&nbsp;Schneide</a> <b>&middot;</b>
+  David&nbsp;Schneider</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Jiaming-Zhang-10" target="_blank">Jiaming&nbsp;Zhang</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Junwei-Zheng-4" target="_blank">Junwei&nbsp;Zheng</a> <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Ruiping-Liu-7" target="_blank">Ruiping&nbsp;Liu</a> <b>&middot;</b>

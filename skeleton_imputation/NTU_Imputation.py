@@ -209,7 +209,7 @@ class Complete_Joints:
         self.load_weights(self.encoder, weight_path)
 
     @ex.capture
-    def Kmeans(self, cluster_num, output_path, split, dataset, n_neighbors):
+    def kmeans(self, cluster_num, output_path, split, dataset, n_neighbors):
         self.get_embedding(mode="train")
         f = open("{}/{}-kmeans-{}.pkl".format(output_path, split, "train"), "rb")
         x = pickle.load(f)
@@ -336,7 +336,7 @@ class Complete_Joints:
             pickle.dump(self.embeddings, f)
 
     def start(self):
-        self.Kmeans()
+        self.kmeans()
         self.predict()
 
 
